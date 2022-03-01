@@ -7,15 +7,15 @@
 
    Greater than:
 
-   ![K-maps](images/Greater_Karnaugh_map.png)
+   ![K-maps](images/Greater_Karnaugh_map.PNG)
 
    Less than:
 
-   ![K-maps](images/Less_Karnaugh_map.png)
+   ![K-maps](images/Less_Karnaugh_map.PNG)
 
 2. Equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-   ![Logic functions](images/Min.png)
+   ![Logic functions](images/Min.PNG)
 
 ### 4-bit comparator
 
