@@ -1,5 +1,5 @@
 
-# Lab 2: YOUR_FIRSTNAME LASTNAME
+# Lab 2: Jan Pavlacka
 
 ### 2-bit comparator
 
