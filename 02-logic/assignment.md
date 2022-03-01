@@ -48,7 +48,11 @@
 
 2. Text console screenshot during your simulation, including reports.
 
-   ![your figure]()
+   Input combination suceed:
+   ![your figure](EdaS.png)
+   
+   Input combination failed:
+   !(EdaF.png)
 
 3. Link to your public EDA Playground example:
 
