@@ -49,10 +49,10 @@
 2. Text console screenshot during your simulation, including reports.
 
    Input combination suceed:
-   ![your figure](EdaS.png)
+   ![your figure](EdaS.PNG)
    
    Input combination failed:
-   !(EdaF.png)
+   ![](EdaF.PNG)
 
 3. Link to your public EDA Playground example:
 
