@@ -1,4 +1,4 @@
-# Lab 4: Jan Pavlacka
+# Lab 4: Jan Pavlačka
 
 ### Seven-segment display decoder
 
@@ -33,9 +33,9 @@
 
    ```vhdl
    --------------------------------------------------------------------
- -- Experiments on your own: LED(7:4) indicators
+   -- Experiments on your own: LED(7:4) indicators
 
-    -- Turn LED(4) on if input value is equal to 0, ie "0000"
+   -- Turn LED(4) on if input value is equal to 0, ie "0000"
     LED(4) <= '1' when (SW = b"0000") else '0';
 
     -- Turn LED(5) on if input value is greater than "1001", ie 10, 11, 12, ...
@@ -46,4 +46,4 @@
 
     -- Turn LED(7) on if input value is a power of two, ie 1, 2, 4, or 8
     LED(7) <= '1' when (SW = b"001" or SW = b"0010" or SW = b"0100" or SW = b"1000") else '0';
-
+   ```
