@@ -29,7 +29,6 @@ if rising_edge(clk) then  -- Synchronous process
                 q_bar <= '1';
             else
             	s_q <= (t and not s_q) or (not s_q and t);                  
-    -- Output ports are permanently connected to local signal
                 q     <= s_q;
             	q_bar <= not s_q;
             end if;
