@@ -34,12 +34,13 @@ Write your text here.
 
 Write your text here.
 
-![figure](images/top_project.jpeg)
+
 <a name="top"></a>
 
 ## TOP module description and simulations
 
 Write your text here.
+![figure](images/Top_project.jpeg)
 
 <a name="video"></a>
 
