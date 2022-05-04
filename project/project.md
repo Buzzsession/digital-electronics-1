@@ -34,6 +34,7 @@ Write your text here.
 
 Write your text here.
 
+!figure(images/top_project.jpeg)
 <a name="top"></a>
 
 ## TOP module description and simulations
