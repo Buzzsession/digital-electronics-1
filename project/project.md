@@ -2,10 +2,10 @@
 
 ### Team members
 
-* Jan Pavlacka (responsible for coffee)
-* Filip Voch   (responsible for xxx)
-* Josef Macek  (responsible for xxx)
-* Daniel Smyd  (responsible for xxx)
+* Jan Pavlacka
+* Filip Voch   
+* Josef Macek  
+* Daniel Smyd  
 
 ### Table of contents
 
