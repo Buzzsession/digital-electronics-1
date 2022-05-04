@@ -40,7 +40,7 @@ Write your text here.
 ## TOP module description and simulations
 
 Write your text here.
-![figure](images/Top_project.jpeg)
+![figure](images/Top-project.jpeg)
 
 <a name="video"></a>
 
