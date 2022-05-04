@@ -2,10 +2,10 @@
 
 ### Team members
 
-* Jan Pavlacka
-* Filip Voch   
-* Josef Macek  
-* Daniel Smyd  
+* Jan Pavlacka (responsible for displ process, top module and testbench)
+* Filip Voch   (responsible for changing colors of LED - blue characters, red for numbers)
+* Josef Macek  (responsible for conv process, git)
+* Daniel Smyd  (responsible for conv process)
 
 ### Table of contents
 
