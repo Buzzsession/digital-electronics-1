@@ -39,11 +39,15 @@ tlačítko BTNC
 clock_enable - zpomalení hodinového signálu
 cnt_up_down - čítač, který pracuje v režimu čítání směrem dolů  
 morse_t - přiřazení 20bit signálu data, který znázorňuje dané číslo nebo písmeno v morseově abecedě ke konkrétnímu číslu nebo písmenu a následné přiřazení tohoto signálu na výstupní 1bit proměnou morse_o
+
 ![image](https://user-images.githubusercontent.com/99814761/166703444-41eb6f48-4c1b-464a-a0f8-dd04dec10c75.png)
+*převedení písmena W na morseovu abecedu zobrazenou v proměné morse_o
 
 <a name="top"></a>
 
 ## TOP module description and simulations
+
+v topu je vše propojeno a je to top
 
 ![figure](images/Top-project.jpeg)
 
@@ -57,4 +61,5 @@ Write your text here
 
 ## References
 
-1. Write your text here.
+1. https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual
+2. https://androidaplikace.cz/wp-content/uploads/Morseova-abeceda-e1333354673390.gif
