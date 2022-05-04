@@ -1,11 +1,11 @@
-# YOUR_PROJECT_TITLE
+# MORSE TRANSMITTER
 
 ### Team members
 
-* Member 1 (responsible for xxx)
-* Member 2 (responsible for xxx)
-* Member 3 (responsible for xxx)
-* ...
+* Jan Pavlacka (responsible for coffee)
+* Filip Voch   (responsible for xxx)
+* Josef Macek  (responsible for xxx)
+* Daniel Smyd  (responsible for xxx)
 
 ### Table of contents
 
