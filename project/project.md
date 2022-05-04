@@ -3,7 +3,7 @@
 ### Team members
 
 * Jan Pavlacka (responsible for displ process, top module and testbench)
-* Filip Voch   (responsible for changing colors of LED - blue characters, red for numbers)
+* Filip Voch   (responsible for changing colors of LED - blue for characters, red for numbers)
 * Josef Macek  (responsible for conv process, git)
 * Daniel Smyd  (responsible for conv process)
 
@@ -56,7 +56,7 @@ Propojení všech signálů dle obrázku:
 
 ## Video
 
-Write your text here
+https://vutbr-my.sharepoint.com/:v:/g/personal/xvochf00_vutbr_cz/EVgCmEXLIU9NsOT06YpwsY0BlY-vYR4LKjVgcVgnKeKk0w?e=7hKwBS
 
 <a name="references"></a>
 
